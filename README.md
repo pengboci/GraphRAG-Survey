@@ -21,7 +21,7 @@ Recently, Retrieval-Augmented Generation (RAG) has achieved remarkable success i
 
 ## <a name="overview">📕 Overview of GraphRAG
 
-![overview](figure/overview.png)
+![ioverview](figure/overview.png)
 
 We divide GraphRAG into three stages: G-Indexing, G-Retrieval, and G-Generation. We categorize the retrieval sources into open-source knowledge graphs and self-constructed graph data. Various enhancing techniques like query enhancement and knowledge enhancement may be adopted to boost the relevance of the results. Unlike RAG, which uses retrieved text directly for generation, GraphRAG requires converting the retrieved graph information into patterns acceptable to generators to enhance the task performance.
 
