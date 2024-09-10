@@ -49,6 +49,9 @@ The generation stage is another crucial step in GraphRAG, aimed at integrating t
 
 ![tasks](figure/tasks.png)
 
+## 📋 Paper List
+Will be updated soon!
+
 ## <a name="citation">🔗 Citation
 
 If you find this survey useful for your research or development, please cite our paper:
