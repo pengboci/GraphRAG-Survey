@@ -36,13 +36,13 @@ The construction and indexing of graph databases form the foundation of GraphRAG
 ## <a name="retrieval">📘 Graph-Guided Retrieval
 
 ![retrieval](figure/retrieval.png)
-
+In GraphRAG, the retrieval process is crucial for ensuring the quality and relevance of generated outputs by extracting pertinent and high-quality graph data from external graph databases. However, retrieving graph data presents two significant challenges: (1) **Explosive Candidate Subgraphs**: As the graph size increases, the number of candidate subgraphs grows exponentially, requiring heuristic search algorithms to efficiently explore and retrieve relevant subgraphs. (2) **Insufficient Similarity Measurement**: Accurately measuring similarity between textual queries and graph data necessitates the development of algorithms capable of understanding both textual and structural information. Considerable efforts have previously been dedicated to optimizing the retrieval process to address the above challenges. This survey focuses on examining various aspects of the retrieval process within GraphRAG, including the selection of the retriever, retrieval paradigm, retrieval granularity, and effective enhancement techniques.
 
 
 ## <a name="generation">📙 Graph-Enhanced Generation
 
 ![generation](figure/generation.png)
-
+The generation stage is another crucial step in GraphRAG, aimed at integrating the retrieved graph data with the query to enhance response quality. In this stage, suitable generation models must be selected based on the downstream tasks. The retrieved graph data is then transformed into formats compatible with the generators. The generator takes both the query and the transformed graph data as inputs to produce the final response. Beyond these fundamental processes, generative enhancement techniques can further improve the output by intensifying the interaction between the query and the graph data and enriching the content generation itself.
 
 
 ## <a name="tasks">🔎 Downstream Tasks
