@@ -19,7 +19,7 @@ Recently, Retrieval-Augmented Generation (RAG) has achieved remarkable success i
 - [Citation](#citation)
 - [Contact Us](#contact)
 
-## <a name="overview"><img src="E:\WeChat\WeChat Files\wxid_fe41735jth0q12\FileStorage\Temp\233b1d08e07d5a25ce3ce1d00c3f1be.png" alt="233b1d08e07d5a25ce3ce1d00c3f1be" style="zoom:25%;" />Overview of GraphRAG
+## <a name="overview">Overview of GraphRAG
 
 ![overview](figure/overview.png)
 
