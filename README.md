@@ -49,7 +49,7 @@ The generation stage is another crucial step in GraphRAG, aimed at integrating t
 
 ![tasks](figure/tasks.png)
 
-## 📋 Paper List
+## 📑 Paper List
 Will be updated soon!
 
 ## <a name="citation">🔗 Citation
