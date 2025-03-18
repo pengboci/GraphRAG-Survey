@@ -111,6 +111,18 @@ The generation stage is another crucial step in GraphRAG, aimed at integrating t
 ##### GNN-based Retriever
 + GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.20139).
 
+#### Retrieval Paradigm
+##### Once Retrieval
++ HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/6ddc001d07ca4f319af96a3024f6dbd1-Abstract-Conference.html).
++ GRAG: Graph Retrieval-Augmented Generation, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.16506).
++ Graph Reasoning for Question Answering with Triplet Retrieval, ACL Findings 2023, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
++ G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/efaf1c9726648c8ba363a5c927440529-Abstract-Conference.html).
++ KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning, EMNLP 2019, [[paper]](https://aclanthology.org/D19-1282/).
++ QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering, NAACL 2021, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
++ GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering, WWW 2023, [[paper]](https://openreview.net/forum?id=nnVO1PvbTv).
++ Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning, ICLR 2024, [[paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q).
++ KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models, EMNLP (Findings) 2023, [[paper]](https://aclanthology.org/2023.findings-emnlp.631/).
+
 ## <a name="citation">🔗 Citation
 
 If you find this survey useful for your research or development, please cite our paper:
