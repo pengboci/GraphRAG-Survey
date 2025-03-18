@@ -50,7 +50,19 @@ The generation stage is another crucial step in GraphRAG, aimed at integrating t
 ![tasks](figure/tasks.png)
 
 ## 📑 Paper List
-Will be updated soon!
+### Graph-Based Indexing
+#### Graph Data
+##### Self-Constructed Data
++ ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science, arxiv 2023, [[paper]](https://arxiv.org/abs/2311.12289).
++ Graph Neural Network Enhanced Retrieval for Question Answering of LLMs, arxiv 2024, [[paper]](https://arxiv.org/abs/2406.06572).
++ Knowledge Graph Prompting for Multi-Document Question Answering, AAAI 2024, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29889).
++ Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge, arxiv 2024, [[paper]](https://arxiv.org/abs/2402.12352).
++ From Local to Global: A Graph RAG Approach to Query-Focused Summarization, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.16130).
++ LightRAG: Simple and Fast Retrieval-Augmented Generation, arxiv 2024, [[paper]](https://arxiv.org/abs/2410.05779).
++ HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/6ddc001d07ca4f319af96a3024f6dbd1-Abstract-Conference.html).
++ DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature, EMNLP (Findings) 2024, [[paper]](https://aclanthology.org/2024.findings-emnlp.119/).
++ Connecting the Dots: Inferring Patent Phrase Similarity with Retrieved Phrase Graphs, NAACL (Findings) 2024, [[paper]](https://aclanthology.org/2024.findings-naacl.121/).
++ Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering, SIGIR 2024, [[paper]](https://dl.acm.org/doi/10.1145/3626772.3661370).
 
 ## <a name="citation">🔗 Citation
 
