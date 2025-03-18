@@ -89,6 +89,28 @@ The generation stage is another crucial step in GraphRAG, aimed at integrating t
 + HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction, ICAIF 2024, [[paper]](https://dl.acm.org/doi/10.1145/3677052.3698671).
 + EWEK-QA: Enhanced Web and Efficient Knowledge Graph Retrieval for Citation-based Question Answering Systems, ACL 2024, [[paper]](https://aclanthology.org/2024.acl-long.764/).
 
+### Graph-Guided Retrieval
+#### Retriever
+##### Non-parametric Retriever
++ QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering, NAACL 2021, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
++ GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering, WWW 2023, [[paper]](https://openreview.net/forum?id=nnVO1PvbTv).
++ G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/efaf1c9726648c8ba363a5c927440529-Abstract-Conference.html).
++ Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge, arxiv 2024, [[paper]](https://arxiv.org/abs/2402.12352).
++ GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.20139).
++ HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/6ddc001d07ca4f319af96a3024f6dbd1-Abstract-Conference.html).
++ Mixture-of-PageRanks: Replacing Long-Context with Real-Time, Sparse GraphRAG, arxiv 2024, [[paper]](https://arxiv.org/abs/2412.06078).
+##### LM-based Retriever
++ Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation, arxiv 2024, [[paper]](http://arxiv.org/abs/2410.20724).
++ Graph Reasoning for Question Answering with Triplet Retrieval, ACL Findings 2023, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
++ DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases, ICLR 2024, [[paper]](https://openreview.net/forum?id=XHc5zRPxqV9).
++ Enhancing Distractor Generation for Multiple-Choice Questions with Retrieval Augmented Pretraining and Knowledge Graph integration, ACL (Findings) 2024, [[paper]](https://aclanthology.org/2024.findings-acl.655/).
++ Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering, ACL 2022, [[paper]](https://aclanthology.org/2022.acl-long.396/).
++ KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models, EMNLP (Findings) 2023, [[paper]](https://aclanthology.org/2023.findings-emnlp.631/).
++ Text-To-KG Alignment: Comparing Current Methods on Classification Tasks, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02871).
++ StructGPT: A General Framework for Large Language Model to Reason over Structured Data, EMNLP 2023, [[paper]](https://aclanthology.org/2023.emnlp-main.574/).
+##### GNN-based Retriever
++ GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.20139).
+
 ## <a name="citation">🔗 Citation
 
 If you find this survey useful for your research or development, please cite our paper:
