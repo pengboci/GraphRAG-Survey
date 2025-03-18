@@ -63,6 +63,17 @@ The generation stage is another crucial step in GraphRAG, aimed at integrating t
 + DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature, EMNLP (Findings) 2024, [[paper]](https://aclanthology.org/2024.findings-emnlp.119/).
 + Connecting the Dots: Inferring Patent Phrase Similarity with Retrieved Phrase Graphs, NAACL (Findings) 2024, [[paper]](https://aclanthology.org/2024.findings-naacl.121/).
 + Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering, SIGIR 2024, [[paper]](https://dl.acm.org/doi/10.1145/3626772.3661370).
+#### Indexing
+##### Graph Indexing
++ RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval, ICLR 2024, [[paper]](https://openreview.net/forum?id=GN921JHCRw).
++ SiReRAG: Indexing Similar and Related Information for Multihop Reasoning, arxiv 2024, [[paper]](https://arxiv.org/abs/2412.06206).
++ KG-Retriever: Efficient Knowledge Indexing for Retrieval-Augmented Large Language Models, arxiv 2024, [[paper]](https://arxiv.org/abs/2412.05547).
++ HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.15883).
++ Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs, ACL (Findings 2024), [[paper]](https://aclanthology.org/2024.findings-acl.11/).
++ Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning, ICLR 2024, [[paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q).
++ Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval, arxiv 2024, [[paper]](https://arxiv.org/abs/2407.10805).
++ Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph, ICLR 2024, [[paper]](https://openreview.net/forum?id=nnVO1PvbTv).
++ GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering, WWW 2023, [[paper]](https://openreview.net/forum?id=nnVO1PvbTv).
 
 ## <a name="citation">🔗 Citation
 
