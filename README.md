@@ -115,13 +115,29 @@ The generation stage is another crucial step in GraphRAG, aimed at integrating t
 ##### Once Retrieval
 + HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/6ddc001d07ca4f319af96a3024f6dbd1-Abstract-Conference.html).
 + GRAG: Graph Retrieval-Augmented Generation, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.16506).
-+ Graph Reasoning for Question Answering with Triplet Retrieval, ACL Findings 2023, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
++ Graph Reasoning for Question Answering with Triplet Retrieval, ACL (Findings) 2023, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
 + G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/efaf1c9726648c8ba363a5c927440529-Abstract-Conference.html).
 + KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning, EMNLP 2019, [[paper]](https://aclanthology.org/D19-1282/).
 + QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering, NAACL 2021, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
 + GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering, WWW 2023, [[paper]](https://openreview.net/forum?id=nnVO1PvbTv).
 + Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning, ICLR 2024, [[paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q).
 + KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models, EMNLP (Findings) 2023, [[paper]](https://aclanthology.org/2023.findings-emnlp.631/).
+##### Iterative Retrieval
++ PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text, EMNLP 2019, [[paper]](https://aclanthology.org/D19-1242/).
++ Knowledge Graph Prompting for Multi-Document Question Answering, AAAI 2024, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29889).
++ Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.11206).
++ KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.15880).
++ Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval, arxiv 2024, [[paper]](https://arxiv.org/abs/2407.10805).
++ Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph, ICLR 2024, [[paper]](https://openreview.net/forum?id=nnVO1PvbTv).
++ Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering, ACL 2022, [[paper]](https://aclanthology.org/2022.acl-long.396/).
++ Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/4254e856d01a5e7b7ea050477c3ef9b9-Abstract-Conference.html).
++ StructGPT: A General Framework for Large Language Model to Reason over Structured Data, EMNLP 2023, [[paper]](https://aclanthology.org/2023.emnlp-main.574/).
++ KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph, arxiv 2024, [[paper]](https://aclanthology.org/2023.emnlp-main.574/).
++ Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs, ACL (Findings 2024), [[paper]](https://aclanthology.org/2024.findings-acl.11/).
++ GeAR: Graph-enhanced Agent for Retrieval-augmented Generation, arxiv 2024, [[paper]](https://arxiv.org/abs/2412.18431).
++ ODA: Observation-Driven Agent for integrating LLMs and Knowledge Graphs, ACL (Findings) 2024, [[paper]](https://aclanthology.org/2024.findings-acl.442/).
++ KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.11761).
++ Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering, EMNLP 2024, [[paper]](https://aclanthology.org/2024.emnlp-main.1023/).
 
 ## <a name="citation">🔗 Citation
 
