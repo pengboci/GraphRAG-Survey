@@ -74,6 +74,20 @@ The generation stage is another crucial step in GraphRAG, aimed at integrating t
 + Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval, arxiv 2024, [[paper]](https://arxiv.org/abs/2407.10805).
 + Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph, ICLR 2024, [[paper]](https://openreview.net/forum?id=nnVO1PvbTv).
 + GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering, WWW 2023, [[paper]](https://openreview.net/forum?id=nnVO1PvbTv).
++ QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering, NAACL 2021, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
+##### Text Indexing
++ Graph Reasoning for Question Answering with Triplet Retrieval, ACL Findings 2023, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
++ MVP-Tuning: Multi-View Knowledge Retrieval with Prompt Tuning for Commonsense Reasoning, ACL 2023, [[paper]](https://aclanthology.org/2023.acl-long.750/).
++ UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models, arxiv 2024, [[paper]](https://arxiv.org/abs/2406.02110).
++ DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases, ICLR 2024, [[paper]](https://openreview.net/forum?id=XHc5zRPxqV9).
++ From Local to Global: A Graph RAG Approach to Query-Focused Summarization, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.16130).
+##### Vector Indexing
++ G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/efaf1c9726648c8ba363a5c927440529-Abstract-Conference.html).
++ GRAG: Graph Retrieval-Augmented Generation, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.16506).
++ Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering, ECML-PKDD 2024, [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-70365-2_3).
+##### Hybrid Indexing
++ HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction, ICAIF 2024, [[paper]](https://dl.acm.org/doi/10.1145/3677052.3698671).
++ EWEK-QA: Enhanced Web and Efficient Knowledge Graph Retrieval for Citation-based Question Answering Systems, ACL 2024, [[paper]](https://aclanthology.org/2024.acl-long.764/).
 
 ## <a name="citation">🔗 Citation
 
