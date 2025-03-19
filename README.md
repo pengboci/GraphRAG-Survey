@@ -138,6 +138,18 @@ The generation stage is another crucial step in GraphRAG, aimed at integrating t
 + ODA: Observation-Driven Agent for integrating LLMs and Knowledge Graphs, ACL (Findings) 2024, [[paper]](https://aclanthology.org/2024.findings-acl.442/).
 + KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.11761).
 + Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering, EMNLP 2024, [[paper]](https://aclanthology.org/2024.emnlp-main.1023/).
+##### Multi-stage Retrieval
++ Reasoning on Efficient Knowledge Paths: Knowledge Graph Guides Large Language Model for Domain Question Answering, ICKG 2024, [[paper]](https://ieeexplore.ieee.org/document/10884449).
++ A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering, arxiv 2023, [[paper]](https://arxiv.org/abs/2303.10395).
++ GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.20139).
+
+#### Retrieval Granularity
+##### Nodes
++ ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science, arxiv 2023, [[paper]](https://arxiv.org/abs/2311.12289).
++ Graph Neural Network Enhanced Retrieval for Question Answering of LLMs, arxiv 2024, [[paper]](https://arxiv.org/abs/2406.06572).
++ Knowledge Graph Prompting for Multi-Document Question Answering, AAAI 2024, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29889).
++ Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph, arxiv 2024, [[paper]](https://arxiv.org/abs/2406.01145).
++ HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/6ddc001d07ca4f319af96a3024f6dbd1-Abstract-Conference.html).
 
 ## <a name="citation">🔗 Citation
 
