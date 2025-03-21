@@ -150,6 +150,45 @@ The generation stage is another crucial step in GraphRAG, aimed at integrating t
 + Knowledge Graph Prompting for Multi-Document Question Answering, AAAI 2024, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29889).
 + Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph, arxiv 2024, [[paper]](https://arxiv.org/abs/2406.01145).
 + HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models, NeurIPS 2024, [[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/6ddc001d07ca4f319af96a3024f6dbd1-Abstract-Conference.html).
+##### Triplets
++ KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques, BioNLP@ACL 2024, [[paper]](https://aclanthology.org/2024.bionlp-1.13/).
++ MVP-Tuning: Multi-View Knowledge Retrieval with Prompt Tuning for Commonsense Reasoning, ACL 2023, [[paper]](https://aclanthology.org/2023.acl-long.750/).
++ Graph Reasoning for Question Answering with Triplet Retrieval, ACL Findings 2023, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
++ UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models, arxiv 2024, [[paper]](https://arxiv.org/abs/2406.02110).
++ Keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM, arxiv 2024, [[paper]](https://arxiv.org/abs/2401.00426).
+##### Paths
++ Reasoning on Efficient Knowledge Paths: Knowledge Graph Guides Large Language Model for Domain Question Answering, ICKG 2024, [[paper]](https://ieeexplore.ieee.org/document/10884449).
++ Contextual Path Retrieval: A Contextual Entity Relation Embedding-based Approach, TOIS 2023, [[paper]](https://dl.acm.org/doi/10.1145/3502720).
++ HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.15883).
++ Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval, arxiv 2024, [[paper]](https://arxiv.org/abs/2407.10805).
++ Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph, ICLR 2024, [[paper]](https://openreview.net/forum?id=nnVO1PvbTv).
++ Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning, ICLR 2024, [[paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q).
++ Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.11206).
++ KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.15880).
++ GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.20139).
+##### Subgraphs
++ Connecting the Dots: Inferring Patent Phrase Similarity with Retrieved Phrase Graphs, NAACL (Findings) 2024, [[paper]](https://aclanthology.org/2024.findings-naacl.121/).
++ QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering, NAACL 2021, [[paper]](https://aclanthology.org/2021.naacl-main.45/).
++ Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering, EMNLP 2020, [[paper]](https://aclanthology.org/2020.emnlp-main.99/).
++ GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering, WWW 2023, [[paper]](https://openreview.net/forum?id=nnVO1PvbTv).
++ GRAG: Graph Retrieval-Augmented Generation, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.16506).
++ MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models, ACL 2024, [[paper]](https://aclanthology.org/2024.acl-long.558/).
++ DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature, EMNLP (Findings) 2024, [[paper]](https://aclanthology.org/2024.findings-emnlp.119/).
++ A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering, arxiv 2023, [[paper]](https://arxiv.org/abs/2303.10395).
++ Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering, ECML-PKDD 2024, [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-70365-2_3).
+
+#### Retrieval Enhancement
+##### Query Enhancement
++ Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning, ICLR 2024, [[paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q).
++ Multi-hop Question Answering under Temporal Knowledge Editing, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.00492).
++ HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.15883).
++ KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models, EMNLP (Findings) 2023, [[paper]](https://aclanthology.org/2023.findings-emnlp.631/).
++ Complex Logical Reasoning over Knowledge Graphs using Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.01157).
+##### Knowledge Enhancement
++ KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.15880).
++ Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering, ACL 2022, [[paper]](https://aclanthology.org/2022.acl-long.396/).
++ MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models, ACL 2024, [[paper]](https://aclanthology.org/2024.acl-long.558/).
++ DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature, EMNLP (Findings) 2024, [[paper]](https://aclanthology.org/2024.findings-emnlp.119/).
 
 ## <a name="citation">🔗 Citation
 
